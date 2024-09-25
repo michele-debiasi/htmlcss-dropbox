@@ -44,7 +44,6 @@
     display: flex;
 
     justify-content: center;
-    padding-bottom: 0;
 
     background-color: cornflowerblue;
     width: 100%;
@@ -56,5 +55,6 @@
     background-color: white;
     height: 380px;
     width: 500px;
+    padding-bottom: 0;
 
 }
