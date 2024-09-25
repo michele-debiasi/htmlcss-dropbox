@@ -22,7 +22,9 @@
     height: 20px;
 }
 
-.upper-header-container{
-    border: 2px dashed black;
-
+.logo{
+    margin-left: 4px;
+    margin-right: 4px;
+    margin-top: 3px;
+    margin-bottom: 3px;
 }
