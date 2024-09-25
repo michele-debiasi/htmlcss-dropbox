@@ -88,6 +88,10 @@
     position: absolute;
     height: 600px;
     top: 100px;
+    display: flex;
+    flex-wrap: nowrap;
+    gap: 2rem;
+
     
    
 }
@@ -99,4 +103,10 @@
     height: 300px;
     top: 700px;
     background-color: blueviolet;
+}
+.card1{
+    background-color: black;
+    height: 400px;
+    width: 100px;
+
 }
