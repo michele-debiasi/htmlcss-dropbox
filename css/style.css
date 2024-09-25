@@ -59,3 +59,11 @@
     width: 70%;
 
 }
+.cards-container{
+    margin: 0 auto;
+    padding: 0 10px;
+    width: 1000px;
+    max-width: 100%;
+    background-color: antiquewhite;
+
+}
