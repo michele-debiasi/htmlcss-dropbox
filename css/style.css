@@ -47,3 +47,11 @@
     height: 550px;
     
 }
+
+.hero-container{
+    background-color: white;
+    padding-bottom: 0;
+    height: 380px;
+    width: 500px;
+    
+}
