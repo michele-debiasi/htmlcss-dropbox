@@ -79,6 +79,8 @@
 .title{
     position: absolute;
     top: 0;
+    left: 0;
+    right: 0;
     height: 100px;
     background-color: brown;
 }
@@ -91,6 +93,9 @@
 }
 .lower{
     position: absolute;
+    bottom: 0;
+    right: 0;
+    left: 0;
     height: 300px;
     top: 700px;
     background-color: blueviolet;
