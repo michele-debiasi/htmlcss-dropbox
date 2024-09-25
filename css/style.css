@@ -79,19 +79,20 @@
     flex-wrap: wrap;
 }
 .vertical{
+    display: flex;
     flex-basis: 30%;
     flex-wrap: nowrap;
     gap: 2rem;
 }
 .card1{
-    color: antiquewhite;
-    min-height: 80%;
+    background-color: antiquewhite;
+    min-height: 50px;
 }
 .card2{
-    color: antiquewhite;
-    min-height: 80%;
+    background-color: antiquewhite;
+    min-height: 50px;
 }
 .card3{
-    color: antiquewhite;
-    min-height: 80%;
+    background-color: antiquewhite;
+    min-height: 50px;
 }
