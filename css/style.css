@@ -112,8 +112,10 @@
     display: flex;
 
 }
-.card4{
-
+.card4 {
+    background-color: black;
+    height: 150px;
+    width: 540px;
 }
 
 
