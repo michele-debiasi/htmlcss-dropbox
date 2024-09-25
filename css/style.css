@@ -60,10 +60,11 @@
 
 }
 .cards-container{
-    margin: 0 auto;
-    padding: 0 10px;
-    width: 1000px;
-    max-width: 100%;
-    color: antiquewhite;
+    
+    padding: 20px;
+    width: 800px;
+    background-color: gray;
+    
+    
 
 }
