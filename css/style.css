@@ -42,7 +42,7 @@
 
 .hero{
     display: flex;
-    align-content: flex-end;
+    
     justify-content: center;
 
     background-color: cornflowerblue;
