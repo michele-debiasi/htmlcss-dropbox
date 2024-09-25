@@ -76,13 +76,11 @@
     background-color: aqua;
     display: flex;
     justify-content: center;
-    align-items: center;
     flex-wrap: wrap;
 }
 .vertical{
     display: flex;
-    flex-basis: 30%;
-    flex-wrap: nowrap;
+    flex-wrap: wrap;
     gap: 2rem;
 }
 .card1{
