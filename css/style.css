@@ -76,6 +76,7 @@
     background-color: aqua;
     display: flex;
     justify-content: center;
+    align-items: center;
     flex-wrap: wrap;
 }
 .vertical{
@@ -86,13 +87,13 @@
 }
 .card1{
     background-color: antiquewhite;
-    min-height: 50px;
+    height: 50px;
 }
 .card2{
     background-color: antiquewhite;
-    min-height: 50px;
+    height: 50px;
 }
 .card3{
     background-color: antiquewhite;
-    min-height: 50px;
+    height: 50px;
 }
