@@ -14,6 +14,8 @@
     max-width: 100%;
 }
 
+
+
 .upper-header{
     display: flex;
     flex-wrap: nowrap;
@@ -36,4 +38,9 @@
     width: 90%;
 
     
+}
+
+.hero{
+
+    background-color: cornflowerblue;
 }
