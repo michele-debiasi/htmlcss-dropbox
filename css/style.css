@@ -51,8 +51,8 @@
 .hero-container{
     background-color: white;
     display: flex;
-    justify-content: center;
-    align-content: flex-end;
+    justify-content: end;
+    align-content: center;
     height: 380px;
     width: 500px;
 
