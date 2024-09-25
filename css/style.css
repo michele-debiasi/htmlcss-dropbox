@@ -87,10 +87,14 @@
 .vertical{
     position: absolute;
     height: 600px;
+    width: 100%;
     top: 100px;
     display: flex;
     flex-wrap: nowrap;
     gap: 2rem;
+    line-height: 600px;
+    justify-content: center;
+    align-content: center;
 
     
    
