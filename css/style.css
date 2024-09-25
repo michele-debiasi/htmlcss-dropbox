@@ -59,12 +59,12 @@
     width: 70%;
 
 }
-.cards-container{
-    
-    padding: 20px;
-    width: 800px;
-    background-color: gray;
-    
-    
+.cards{
+    height: 1000px;
+    width: 100%;
 
+}
+.cards-container{
+    padding: 40px 100px;
+    background-color: aqua;
 }
