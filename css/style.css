@@ -74,24 +74,24 @@
     height: 800px;
     width: 60%;
     background-color: aqua;
-    display: flex;
-    justify-content: center;
-    flex-wrap: wrap;
+    position: relative;
+}
+.title{
+    position: absolute;
+    top: 0;
+    height: 100px;
+    background-color: brown;
 }
 .vertical{
-    display: flex;
-    flex-wrap: wrap;
-    gap: 2rem;
+    position: absolute;
+    height: 600px;
+    top: 100px;
+    
+   
 }
-.card1{
-    background-color: antiquewhite;
-    height: 50px;
-}
-.card2{
-    background-color: antiquewhite;
-    height: 50px;
-}
-.card3{
-    background-color: antiquewhite;
-    height: 50px;
+.lower{
+    position: absolute;
+    height: 300px;
+    top: 700px;
+    background-color: blueviolet;
 }
